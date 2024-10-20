@@ -17,6 +17,7 @@ the opcode as data.
 
 #include <stdio.h>
 #include <stdlib.h>
+#include "disassembler.h"
 
 /*
 Codebuffer is a pointer to 8080 assembly.
