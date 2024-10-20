@@ -19,10 +19,11 @@ the opcode as data.
 #include <stdlib.h>
 
 /*
-codebuffer is a pointer to the 8080 assembly code
+Codebuffer is a pointer to 8080 assembly.
 pc is the offset into the code.
 
-returns length in bytes of the opcode.
+Returns length in bytes of the opcode, allowing us to
+transverse the provided buffer.
 */
 int Disassemble8080(unsigned char *codebuffer, int pc) {
     // create pointer to begin reading the buffer.
@@ -30,9 +31,10 @@ int Disassemble8080(unsigned char *codebuffer, int pc) {
     int opbytes = 1;
     // print current offset.
     printf("%04x   ", pc);
+    
+    // Map op codes and print their names and args:
     switch (*code) 
     {
-        // Map op codes and printf their names
         case 0x00: printf("NOP"); break;
         case 0x01: printf("LXI    B,#$%02x%02x", code[2], code[1]); opbytes = 3; break;
         case 0x02: printf("STAX   B"); break;
