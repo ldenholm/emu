@@ -1,0 +1,1590 @@
+0000NOP
+0001NOP
+0002NOP
+0003Opcode unresolvable.
+0004Opcode unresolvable.
+0005NOP
+0006NOP
+0007NOP
+0008Opcode unresolvable.
+0009Opcode unresolvable.
+000aOpcode unresolvable.
+000bOpcode unresolvable.
+000cOpcode unresolvable.
+000dOpcode unresolvable.
+000eNOP
+000fNOP
+0010Opcode unresolvable.
+0011Opcode unresolvable.
+0012Opcode unresolvable.
+0013Opcode unresolvable.
+0014Opcode unresolvable.
+0015Opcode unresolvable.
+0016STA      #$2072
+0019LXI    H,#$20c0
+001cDCR    M
+001dOpcode unresolvable.
+001eOpcode unresolvable.
+001fRAL
+0020Opcode unresolvable.
+0021LXI    B,#$da0f
+0024Opcode unresolvable.
+0025NOP
+0026Opcode unresolvable.
+0027Opcode unresolvable.
+0028RIM
+0029Opcode unresolvable.
+002aOpcode unresolvable.
+002bOpcode unresolvable.
+002cNOP
+002dOpcode unresolvable.
+002eOpcode unresolvable.
+002fRIM
+0030Opcode unresolvable.
+0031Opcode unresolvable.
+0032Opcode unresolvable.
+0033Opcode unresolvable.
+0034NOP
+0035Opcode unresolvable.
+0036LXI    B,#$3227
+0039Opcode unresolvable.
+003aRIM
+003bOpcode unresolvable.
+003cOpcode unresolvable.
+003dDAD    D
+003eOpcode unresolvable.
+003fSTA      #$20ea
+0042Opcode unresolvable.
+0043Opcode unresolvable.
+0044RIM
+0045Opcode unresolvable.
+0046Opcode unresolvable.
+0047Opcode unresolvable.
+0048NOP
+0049Opcode unresolvable.
+004aOpcode unresolvable.
+004bRIM
+004cOpcode unresolvable.
+004dOpcode unresolvable.
+004eOpcode unresolvable.
+004fNOP
+0050Opcode unresolvable.
+0051Opcode unresolvable.
+0052RIM
+0053Opcode unresolvable.
+0054Opcode unresolvable.
+0055Opcode unresolvable.
+0056NOP
+0057Opcode unresolvable.
+0058Opcode unresolvable.
+0059LDAX   B
+005aOpcode unresolvable.
+005bOpcode unresolvable.
+005cNOP
+005dOpcode unresolvable.
+005eOpcode unresolvable.
+005fRIM
+0060Opcode unresolvable.
+0061Opcode unresolvable.
+0062Opcode unresolvable.
+0063NOP
+0064Opcode unresolvable.
+0065Opcode unresolvable.
+0066RLC
+0067Opcode unresolvable.
+0068LXI    B,#$ea32
+006bRIM
+006cOpcode unresolvable.
+006dOpcode unresolvable.
+006eNOP
+006fOpcode unresolvable.
+0070Opcode unresolvable.
+0071RAL
+0072Opcode unresolvable.
+0073STA      #$3220
+0076Opcode unresolvable.
+0077RIM
+0078Opcode unresolvable.
+0079NOP
+007aLXI    B,#$48cd
+007dSTAX   B
+007eOpcode unresolvable.
+007fINX    D
+0080DAD    B
+0081NOP
+0082Opcode unresolvable.
+0083Opcode unresolvable.
+0084Opcode unresolvable.
+0085Opcode unresolvable.
+0086Opcode unresolvable.
+0087Opcode unresolvable.
+0088NOP
+0089NOP
+008aNOP
+008bNOP
+008cOpcode unresolvable.
+008dSTA      #$2072
+0090Opcode unresolvable.
+0091Opcode unresolvable.
+0092RIM
+0093Opcode unresolvable.
+0094Opcode unresolvable.
+0095Opcode unresolvable.
+0096NOP
+0097Opcode unresolvable.
+0098Opcode unresolvable.
+0099RIM
+009aOpcode unresolvable.
+009bOpcode unresolvable.
+009cOpcode unresolvable.
+009dNOP
+009eOpcode unresolvable.
+009fOpcode unresolvable.
+00a0RIM
+00a1RRC
+00a2Opcode unresolvable.
+00a3Opcode unresolvable.
+00a4NOP
+00a5LXI    H,#$2020
+00a8Opcode unresolvable.
+00a9Opcode unresolvable.
+00aaSTAX   B
+00abOpcode unresolvable.
+00acOpcode unresolvable.
+00adLXI    B,#$82c3
+00b0NOP
+00b1Opcode unresolvable.
+00b2Opcode unresolvable.
+00b3NOP
+00b4Opcode unresolvable.
+00b5Opcode unresolvable.
+00b6INX    H
+00b7Opcode unresolvable.
+00b8Opcode unresolvable.
+00b9SHLD     #$2009
+00bcSHLD     #$200b
+00bfOpcode unresolvable.
+00c0DCX    H
+00c1Opcode unresolvable.
+00c2Opcode unresolvable.
+00c3INX    B
+00c4Opcode unresolvable.
+00c5Opcode unresolvable.
+00c6NOP
+00c7Opcode unresolvable.
+00c8STA      #$2008
+00cbOpcode unresolvable.
+00ccOpcode unresolvable.
+00cdOpcode unresolvable.
+00ceNOP
+00cfOpcode unresolvable.
+00d0Opcode unresolvable.
+00d1NOP
+00d2Opcode unresolvable.
+00d3STA      #$200d
+00d6Opcode unresolvable.
+00d7Opcode unresolvable.
+00d8STAX   B
+00d9STA      #$21fb
+00dcSTA      #$22fb
+00dfOpcode unresolvable.
+00e0Opcode unresolvable.
+00e1NOP
+00e2NOP
+00e3NOP
+00e4NOP
+00e5NOP
+00e6NOP
+00e7NOP
+00e8NOP
+00e9NOP
+00eaNOP
+00ebNOP
+00ecNOP
+00edNOP
+00eeNOP
+00efNOP
+00f0NOP
+00f1NOP
+00f2NOP
+00f3NOP
+00f4NOP
+00f5NOP
+00f6NOP
+00f7NOP
+00f8NOP
+00f9NOP
+00faNOP
+00fbNOP
+00fcNOP
+00fdNOP
+00feNOP
+00ffNOP
+0100LXI    H,#$2002
+0103Opcode unresolvable.
+0104Opcode unresolvable.
+0105Opcode unresolvable.
+0106NOP
+0107DCR    D
+0108Opcode unresolvable.
+0109Opcode unresolvable.
+010aMVI    B,#$20
+010cOpcode unresolvable.
+010dOpcode unresolvable.
+010eOpcode unresolvable.
+010fRIM
+0110Opcode unresolvable.
+0111Opcode unresolvable.
+0112Opcode unresolvable.
+0113Opcode unresolvable.
+0114Opcode unresolvable.
+0115MVI    M,#$01
+0117INX    H
+0118INX    H
+0119Opcode unresolvable.
+011aINX    H
+011bOpcode unresolvable.
+011cOpcode unresolvable.
+011dOpcode unresolvable.
+011eRLC
+011fRLC
+0120RLC
+0121Opcode unresolvable.
+0122MVI    D,#$00
+0124LXI    H,#$1c00
+0127DAD    D
+0128Opcode unresolvable.
+0129Opcode unresolvable.
+012aOpcode unresolvable.
+012bOpcode unresolvable.
+012cOpcode unresolvable.
+012dLXI    B,#$0b2a
+0130RIM
+0131MVI    B,#$10
+0133Opcode unresolvable.
+0134Opcode unresolvable.
+0135DCR    D
+0136Opcode unresolvable.
+0137STA      #$2000
+013aOpcode unresolvable.
+013bLXI    H,#$0030
+013eDAD    D
+013fOpcode unresolvable.
+0140Opcode unresolvable.
+0141Opcode unresolvable.
+0142Opcode unresolvable.
+0143RIM
+0144Opcode unresolvable.
+0145Opcode unresolvable.
+0146Opcode unresolvable.
+0147NOP
+0148RIM
+0149Opcode unresolvable.
+014aOpcode unresolvable.
+014bOpcode unresolvable.
+014cOpcode unresolvable.
+014dRIM
+014eOpcode unresolvable.
+014fOpcode unresolvable.
+0150MVI    B,#$20
+0152MVI    D,#$02
+0154Opcode unresolvable.
+0155Opcode unresolvable.
+0156STC
+0157Opcode unresolvable.
+0158Opcode unresolvable.
+0159LXI    B,#$466f
+015cDCR    B
+015dOpcode unresolvable.
+015eOpcode unresolvable.
+015fLXI    B,#$0632
+0162RIM
+0163Opcode unresolvable.
+0164Opcode unresolvable.
+0165LXI    B,#$2261
+0168DCX    B
+0169RIM
+016aOpcode unresolvable.
+016bOpcode unresolvable.
+016cNOP
+016dOpcode unresolvable.
+016eOpcode unresolvable.
+016fDAD    D
+0170Opcode unresolvable.
+0171STA      #$2004
+0174Opcode unresolvable.
+0175LXI    B,#$0032
+0178RIM
+0179Opcode unresolvable.
+017aMVI    D,#$00
+017cOpcode unresolvable.
+017dLXI    H,#$2009
+0180Opcode unresolvable.
+0181INX    H
+0182Opcode unresolvable.
+0183Opcode unresolvable.
+0184DCX    B
+0185Opcode unresolvable.
+0186Opcode unresolvable.
+0187LXI    B,#$0bde
+018aOpcode unresolvable.
+018bOpcode unresolvable.
+018cOpcode unresolvable.
+018dNOP
+018eOpcode unresolvable.
+018fOpcode unresolvable.
+0190INR    D
+0191Opcode unresolvable.
+0192Opcode unresolvable.
+0193LXI    B,#$a768
+0196Opcode unresolvable.
+0197Opcode unresolvable.
+0198Opcode unresolvable.
+0199Opcode unresolvable.
+019aNOP
+019bOpcode unresolvable.
+019cOpcode unresolvable.
+019dOpcode unresolvable.
+019eOpcode unresolvable.
+019fOpcode unresolvable.
+01a0LXI    B,#$ca15
+01a3Opcode unresolvable.
+01a4LXI    B,#$0621
+01a7RIM
+01a8MVI    M,#$00
+01aaINX    H
+01abOpcode unresolvable.
+01acMVI    M,#$00
+01aeOpcode unresolvable.
+01afOpcode unresolvable.
+01b0LXI    B,#$0521
+01b3RIM
+01b4Opcode unresolvable.
+01b5Opcode unresolvable.
+01b6Opcode unresolvable.
+01b7LXI    B,#$af77
+01baLXI    H,#$2067
+01bdOpcode unresolvable.
+01beOpcode unresolvable.
+01bfNOP
+01c0LXI    H,#$2100
+01c3MVI    B,#$37
+01c5MVI    M,#$01
+01c7INX    H
+01c8DCR    B
+01c9Opcode unresolvable.
+01caOpcode unresolvable.
+01cbLXI    B,#$e1c9
+01ceOpcode unresolvable.
+01cfOpcode unresolvable.
+01d0LXI    B,#$e006
+01d3LXI    H,#$2402
+01d6Opcode unresolvable.
+01d7Opcode unresolvable.
+01d8INR    D
+01d9INX    H
+01daOpcode unresolvable.
+01dbINX    H
+01dcOpcode unresolvable.
+01ddOpcode unresolvable.
+01deOpcode unresolvable.
+01dfINX    H
+01e0Opcode unresolvable.
+01e1Opcode unresolvable.
+01e2Opcode unresolvable.
+01e3Opcode unresolvable.
+01e4MVI    B,#$c0
+01e6LXI    D,#$1b00
+01e9LXI    H,#$2000
+01ecOpcode unresolvable.
+01edSTA      #$211a
+01f0Opcode unresolvable.
+01f1LXI    H,#$f8c3
+01f4LXI    B,#$4221
+01f7SHLD     #$040e
+01faLXI    D,#$1d20
+01fdOpcode unresolvable.
+01feMVI    B,#$2c
+0200Opcode unresolvable.
+0201STA      #$d11a
+0204DCR    C
+0205Opcode unresolvable.
+0206Opcode unresolvable.
+0207LXI    B,#$3ec9
+020aLXI    B,#$1bc3
+020dSTAX   B
+020eOpcode unresolvable.
+020fLXI    B,#$14c3
+0212STAX   B
+0213Opcode unresolvable.
+0214LXI    D,#$2242
+0217Opcode unresolvable.
+0218MVI    E,#$02
+021aOpcode unresolvable.
+021bLXI    D,#$2142
+021eSTA      #$2081
+0221LXI    B,#$1602
+0224LXI    H,#$2806
+0227Opcode unresolvable.
+0228INR    B
+0229Opcode unresolvable.
+022aOpcode unresolvable.
+022bOpcode unresolvable.
+022cOpcode unresolvable.
+022dRIM
+022eOpcode unresolvable.
+022fOpcode unresolvable.
+0230Opcode unresolvable.
+0231STAX   B
+0232Opcode unresolvable.
+0233Opcode unresolvable.
+0234LDAX   D
+0235Opcode unresolvable.
+0236Opcode unresolvable.
+0237Opcode unresolvable.
+0238Opcode unresolvable.
+0239Opcode unresolvable.
+023aLXI    D,#$02e0
+023dDAD    D
+023eOpcode unresolvable.
+023fOpcode unresolvable.
+0240DAD    H
+0241STAX   B
+0242Opcode unresolvable.
+0243Opcode unresolvable.
+0244INR    D
+0245Opcode unresolvable.
+0246DCR    M
+0247STAX   B
+0248LXI    H,#$2010
+024bOpcode unresolvable.
+024cOpcode unresolvable.
+024dOpcode unresolvable.
+024eOpcode unresolvable.
+024fOpcode unresolvable.
+0250Opcode unresolvable.
+0251Opcode unresolvable.
+0252Opcode unresolvable.
+0253STAX   B
+0254INX    H
+0255Opcode unresolvable.
+0256Opcode unresolvable.
+0257Opcode unresolvable.
+0258Opcode unresolvable.
+0259Opcode unresolvable.
+025aOpcode unresolvable.
+025bSTAX   B
+025cINX    H
+025dOpcode unresolvable.
+025eOpcode unresolvable.
+025fOpcode unresolvable.
+0260Opcode unresolvable.
+0261STAX   B
+0262INX    H
+0263Opcode unresolvable.
+0264INX    H
+0265Opcode unresolvable.
+0266Opcode unresolvable.
+0267Opcode unresolvable.
+0268Opcode unresolvable.
+0269LXI    H,#$026f
+026cOpcode unresolvable.
+026dOpcode unresolvable.
+026eOpcode unresolvable.
+026fOpcode unresolvable.
+0270LXI    D,#$000c
+0273DAD    D
+0274Opcode unresolvable.
+0275Opcode unresolvable.
+0276STAX   B
+0277DCR    B
+0278INR    B
+0279Opcode unresolvable.
+027aOpcode unresolvable.
+027bSTAX   B
+027cOpcode unresolvable.
+027dDCR    B
+027eOpcode unresolvable.
+027fDCX    H
+0280Opcode unresolvable.
+0281LXI    D,#$0010
+0284DAD    D
+0285Opcode unresolvable.
+0286Opcode unresolvable.
+0287STAX   B
+0288DCR    M
+0289DCX    H
+028aDCX    H
+028bOpcode unresolvable.
+028cOpcode unresolvable.
+028dSTAX   B
+028eOpcode unresolvable.
+028fINX    H
+0290Opcode unresolvable.
+0291Opcode unresolvable.
+0292Opcode unresolvable.
+0293Opcode unresolvable.
+0294Opcode unresolvable.
+0295INX    B
+0296INX    H
+0297DCR    M
+0298Opcode unresolvable.
+0299Opcode unresolvable.
+029aOpcode unresolvable.
+029bSTA      #$2068
+029eSTA      #$2069
+02a1Opcode unresolvable.
+02a2SIM
+02a3STA      #$206a
+02a6Opcode unresolvable.
+02a7MVI    M,#$05
+02a9INX    H
+02aaDCR    M
+02abOpcode unresolvable.
+02acOpcode unresolvable.
+02adINX    B
+02aeLHLD     #$201a
+02b1MVI    B,#$10
+02b3Opcode unresolvable.
+02b4INR    H
+02b5INR    D
+02b6LXI    H,#$2010
+02b9LXI    D,#$1b10
+02bcMVI    B,#$10
+02beOpcode unresolvable.
+02bfSTA      #$061a
+02c2NOP
+02c3Opcode unresolvable.
+02c4Opcode unresolvable.
+02c5DAD    D
+02c6Opcode unresolvable.
+02c7Opcode unresolvable.
+02c8RIM
+02c9Opcode unresolvable.
+02caOpcode unresolvable.
+02cbOpcode unresolvable.
+02ccOpcode unresolvable.
+02cdRIM
+02ceOpcode unresolvable.
+02cfOpcode unresolvable.
+02d0LXI   SP,#$2400
+02d3Opcode unresolvable.
+02d4Opcode unresolvable.
+02d5Opcode unresolvable.
+02d6DAD    D
+02d7Opcode unresolvable.
+02d8MVI    L,#$09
+02daOpcode unresolvable.
+02dbOpcode unresolvable.
+02dcOpcode unresolvable.
+02ddMVI    D,#$cd
+02dfOpcode unresolvable.
+02e0NOP
+02e1Opcode unresolvable.
+02e2Opcode unresolvable.
+02e3Opcode unresolvable.
+02e4INR    L
+02e5INX    B
+02e6Opcode unresolvable.
+02e7Opcode unresolvable.
+02e8RIM
+02e9Opcode unresolvable.
+02eaOpcode unresolvable.
+02ebINR    L
+02ecINX    B
+02edOpcode unresolvable.
+02eeOpcode unresolvable.
+02efRIM
+02f0Opcode unresolvable.
+02f1RRC
+02f2Opcode unresolvable.
+02f3STA      #$cd03
+02f6MVI    C,#$02
+02f8Opcode unresolvable.
+02f9Opcode unresolvable.
+02faNOP
+02fbOpcode unresolvable.
+02fcINX    H
+02fdOpcode unresolvable.
+02feDCX    H
+02ffDCX    H
+0300Opcode unresolvable.
+0301NOP
+0302Opcode unresolvable.
+0303Opcode unresolvable.
+0304LXI    B,#$0ff1
+0307Opcode unresolvable.
+0308LXI    H,#$0006
+030bOpcode unresolvable.
+030cSTAX   D
+030dINX    B
+030eMVI    B,#$20
+0310Opcode unresolvable.
+0311SHLD     #$6732
+0314RIM
+0315Opcode unresolvable.
+0316Opcode unresolvable.
+0317LDAX   B
+0318Opcode unresolvable.
+0319STA      #$2011
+031cOpcode unresolvable.
+031dOpcode unresolvable.
+031eDCR    B
+031fOpcode unresolvable.
+0320STA      #$2098
+0323Opcode unresolvable.
+0324Opcode unresolvable.
+0325DAD    B
+0326Opcode unresolvable.
+0327Opcode unresolvable.
+0328LDAX   D
+0329Opcode unresolvable.
+032aOpcode unresolvable.
+032bRLC
+032cOpcode unresolvable.
+032dOpcode unresolvable.
+032eLDAX   D
+032fOpcode unresolvable.
+0330RAL
+0331NOP
+0332Opcode unresolvable.
+0333DAD    B
+0334STAX   B
+0335Opcode unresolvable.
+0336Opcode unresolvable.
+0337STAX   B
+0338NOP
+0339NOP
+033aNOP
+033bLXI    H,#$2068
+033eMVI    M,#$01
+0340INX    H
+0341Opcode unresolvable.
+0342Opcode unresolvable.
+0343Opcode unresolvable.
+0344Opcode unresolvable.
+0345INX    B
+0346NOP
+0347DCX    H
+0348MVI    M,#$01
+034aOpcode unresolvable.
+034bDCX    D
+034cRIM
+034dOpcode unresolvable.
+034eOpcode unresolvable.
+034fOpcode unresolvable.
+0350RIM
+0351Opcode unresolvable.
+0352Opcode unresolvable.
+0353Opcode unresolvable.
+0354INX    B
+0355Opcode unresolvable.
+0356DCR    E
+0357RIM
+0358RRC
+0359Opcode unresolvable.
+035aOpcode unresolvable.
+035bINX    B
+035cRRC
+035dOpcode unresolvable.
+035eOpcode unresolvable.
+035fINX    B
+0360Opcode unresolvable.
+0361Opcode unresolvable.
+0362INX    B
+0363Opcode unresolvable.
+0364Opcode unresolvable.
+0365RAL
+0366RLC
+0367RLC
+0368Opcode unresolvable.
+0369Opcode unresolvable.
+036aINX    B
+036bRLC
+036cOpcode unresolvable.
+036dOpcode unresolvable.
+036eINX    B
+036fLXI    H,#$2018
+0372Opcode unresolvable.
+0373Opcode unresolvable.
+0374LDAX   D
+0375Opcode unresolvable.
+0376Opcode unresolvable.
+0377LDAX   D
+0378Opcode unresolvable.
+0379Opcode unresolvable.
+037aINR    D
+037bOpcode unresolvable.
+037cNOP
+037dSTA      #$2012
+0380Opcode unresolvable.
+0381Opcode unresolvable.
+0382Opcode unresolvable.
+0383Opcode unresolvable.
+0384Opcode unresolvable.
+0385Opcode unresolvable.
+0386INX    B
+0387Opcode unresolvable.
+0388STA      #$201b
+038bOpcode unresolvable.
+038cOpcode unresolvable.
+038dINX    B
+038eOpcode unresolvable.
+038fOpcode unresolvable.
+0390SIM
+0391Opcode unresolvable.
+0392Opcode unresolvable.
+0393INX    B
+0394Opcode unresolvable.
+0395STA      #$201b
+0398Opcode unresolvable.
+0399Opcode unresolvable.
+039aINX    B
+039bOpcode unresolvable.
+039cOpcode unresolvable.
+039dLXI    B,#$1532
+03a0RIM
+03a1RLC
+03a2RLC
+03a3RLC
+03a4RLC
+03a5LXI    H,#$1c70
+03a8Opcode unresolvable.
+03a9Opcode unresolvable.
+03aaSHLD     #$2018
+03adOpcode unresolvable.
+03aeOpcode unresolvable.
+03afINX    B
+03b0Opcode unresolvable.
+03b1Opcode unresolvable.
+03b2INX    B
+03b3INX    H
+03b4DCR    M
+03b5Opcode unresolvable.
+03b6Opcode unresolvable.
+03b7INX    B
+03b8Opcode unresolvable.
+03b9Opcode unresolvable.
+03baINX    B
+03bbLXI    D,#$202a
+03beOpcode unresolvable.
+03bfMVI    B,#$1a
+03c1Opcode unresolvable.
+03c2Opcode unresolvable.
+03c3INX    H
+03c4Opcode unresolvable.
+03c5Opcode unresolvable.
+03c6Opcode unresolvable.
+03c7Opcode unresolvable.
+03c8LXI    B,#$faca
+03cbINX    B
+03ccOpcode unresolvable.
+03cdSTAX   B
+03ceOpcode unresolvable.
+03cfLDAX   B
+03d0INR    B
+03d1INX    H
+03d2Opcode unresolvable.
+03d3INX    B
+03d4Opcode unresolvable.
+03d5LHLD     #$3504
+03d8Opcode unresolvable.
+03d9MVI    M,#$04
+03dbOpcode unresolvable.
+03dcOpcode unresolvable.
+03ddRRC
+03deOpcode unresolvable.
+03dfOpcode unresolvable.
+03e0Opcode unresolvable.
+03e1SIM
+03e2INR    B
+03e3Opcode unresolvable.
+03e4Opcode unresolvable.
+03e5INR    D
+03e6Opcode unresolvable.
+03e7INX    H
+03e8INR    M
+03e9INX    H
+03eaINX    H
+03ebDCR    M
+03ecDCR    M
+03edINX    H
+03eeDCR    M
+03efDCR    M
+03f0DCR    M
+03f1INX    H
+03f2MVI    M,#$08
+03f4Opcode unresolvable.
+03f5SIM
+03f6INR    B
+03f7Opcode unresolvable.
+03f8NOP
+03f9INR    D
+03faOpcode unresolvable.
+03fbOpcode unresolvable.
+03fcOpcode unresolvable.
+03fdDCX    D
+03feRIM
+03ffOpcode unresolvable.
+0400NOP
+0401STA      #$202a
+0404Opcode unresolvable.
+0405SIM
+0406INR    B
+0407Opcode unresolvable.
+0408NOP
+0409INR    D
+040aOpcode unresolvable.
+040bSIM
+040cINR    B
+040dOpcode unresolvable.
+040eOpcode unresolvable.
+040fOpcode unresolvable.
+0410Opcode unresolvable.
+0411Opcode unresolvable.
+0412INR    D
+0413Opcode unresolvable.
+0414Opcode unresolvable.
+0415Opcode unresolvable.
+0416Opcode unresolvable.
+0417INR    L
+0418RIM
+0419Opcode unresolvable.
+041aOpcode unresolvable.
+041bSTA      #$2029
+041eOpcode unresolvable.
+041fOpcode unresolvable.
+0420INR    D
+0421Opcode unresolvable.
+0422Opcode unresolvable.
+0423RIM
+0424Opcode unresolvable.
+0425Opcode unresolvable.
+0426STA      #$2002
+0429Opcode unresolvable.
+042aOpcode unresolvable.
+042bDCR    B
+042cOpcode unresolvable.
+042dOpcode unresolvable.
+042eMVI    M,#$04
+0430LXI    H,#$2027
+0433Opcode unresolvable.
+0434Opcode unresolvable.
+0435LDAX   D
+0436Opcode unresolvable.
+0437SIM
+0438INR    B
+0439Opcode unresolvable.
+043aOpcode unresolvable.
+043bINR    D
+043cLXI    H,#$2025
+043fLXI    D,#$1b25
+0442MVI    B,#$07
+0444Opcode unresolvable.
+0445STA      #$2a1a
+0448Opcode unresolvable.
+0449RIM
+044aINR    L
+044bOpcode unresolvable.
+044cOpcode unresolvable.
+044dOpcode unresolvable.
+044eOpcode unresolvable.
+044fOpcode unresolvable.
+0450INR    B
+0451MVI    L,#$54
+0453SHLD     #$208d
+0456LHLD     #$208f
+0459INR    L
+045aSHLD     #$208f
+045dOpcode unresolvable.
+045eOpcode unresolvable.
+045fRIM
+0460Opcode unresolvable.
+0461Opcode unresolvable.
+0462Opcode unresolvable.
+0463Opcode unresolvable.
+0464LXI    B,#$2901
+0467STAX   B
+0468Opcode unresolvable.
+0469Opcode unresolvable.
+046aINR    B
+046bLXI    B,#$fee0
+046eLXI    H,#$208a
+0471Opcode unresolvable.
+0472INX    H
+0473INX    H
+0474Opcode unresolvable.
+0475Opcode unresolvable.
+0476Opcode unresolvable.
+0477Opcode unresolvable.
+0478STA      #$321b
+047bSTA      #$2a20
+047eNOP
+047fRIM
+0480Opcode unresolvable.
+0481Opcode unresolvable.
+0482Opcode unresolvable.
+0483Opcode unresolvable.
+0484INR    B
+0485DCX    H
+0486SHLD     #$2038
+0489Opcode unresolvable.
+048aLXI    D,#$2035
+048dOpcode unresolvable.
+048eOpcode unresolvable.
+048fOpcode unresolvable.
+0490Opcode unresolvable.
+0491DCR    B
+0492Opcode unresolvable.
+0493Opcode unresolvable.
+0494RIM
+0495STA      #$2070
+0498Opcode unresolvable.
+0499Opcode unresolvable.
+049aRIM
+049bSTA      #$2071
+049eOpcode unresolvable.
+049fOpcode unresolvable.
+04a0DCR    B
+04a1Opcode unresolvable.
+04a2Opcode unresolvable.
+04a3RIM
+04a4Opcode unresolvable.
+04a5LXI    H,#$2035
+04a8Opcode unresolvable.
+04a9Opcode unresolvable.
+04aaDCR    B
+04abLXI    D,#$1b30
+04aeLXI    H,#$2030
+04b1MVI    B,#$10
+04b3Opcode unresolvable.
+04b4STA      #$e11a
+04b7Opcode unresolvable.
+04b8Opcode unresolvable.
+04b9RIM
+04baOpcode unresolvable.
+04bbOpcode unresolvable.
+04bcOpcode unresolvable.
+04bdOpcode unresolvable.
+04beRIM
+04bfOpcode unresolvable.
+04c0LXI    B,#$11c0
+04c3Opcode unresolvable.
+04c4RIM
+04c5Opcode unresolvable.
+04c6Opcode unresolvable.
+04c7Opcode unresolvable.
+04c8Opcode unresolvable.
+04c9DCR    B
+04caOpcode unresolvable.
+04cbMVI    M,#$20
+04cdSTA      #$2070
+04d0Opcode unresolvable.
+04d1Opcode unresolvable.
+04d2RIM
+04d3STA      #$2071
+04d6Opcode unresolvable.
+04d7Opcode unresolvable.
+04d8DCR    B
+04d9Opcode unresolvable.
+04daOpcode unresolvable.
+04dbRIM
+04dcOpcode unresolvable.
+04ddNOP
+04deOpcode unresolvable.
+04dfOpcode unresolvable.
+04e0INR    B
+04e1Opcode unresolvable.
+04e2Opcode unresolvable.
+04e3DCX    D
+04e4STA      #$2076
+04e7Opcode unresolvable.
+04e8Opcode unresolvable.
+04e9RIM
+04eaOpcode unresolvable.
+04ebLXI    H,#$2045
+04eeOpcode unresolvable.
+04efOpcode unresolvable.
+04f0DCR    B
+04f1LXI    D,#$1b40
+04f4LXI    H,#$2040
+04f7MVI    B,#$10
+04f9Opcode unresolvable.
+04faSTA      #$3a1a
+04fdOpcode unresolvable.
+04feRIM
+04ffOpcode unresolvable.
+0500Opcode unresolvable.
+0501NOP
+0502DCR    B
+0503Opcode unresolvable.
+0504LXI    B,#$6e32
+0507RIM
+0508LHLD     #$2076
+050bOpcode unresolvable.
+050cOpcode unresolvable.
+050dMVI    B,#$e1
+050fLXI    D,#$2055
+0512Opcode unresolvable.
+0513Opcode unresolvable.
+0514Opcode unresolvable.
+0515Opcode unresolvable.
+0516DCR    B
+0517Opcode unresolvable.
+0518Opcode unresolvable.
+0519RIM
+051aSTA      #$2070
+051dOpcode unresolvable.
+051eMVI    M,#$20
+0520STA      #$2071
+0523Opcode unresolvable.
+0524Opcode unresolvable.
+0525DCR    B
+0526Opcode unresolvable.
+0527Opcode unresolvable.
+0528RIM
+0529Opcode unresolvable.
+052aDCR    D
+052bOpcode unresolvable.
+052cINR    M
+052dDCR    B
+052eOpcode unresolvable.
+052fOpcode unresolvable.
+0530DCX    D
+0531STA      #$2076
+0534Opcode unresolvable.
+0535Opcode unresolvable.
+0536RIM
+0537Opcode unresolvable.
+0538LXI    H,#$2055
+053bOpcode unresolvable.
+053cOpcode unresolvable.
+053dDCR    B
+053eLXI    D,#$1b50
+0541LXI    H,#$2050
+0544MVI    B,#$10
+0546Opcode unresolvable.
+0547STA      #$2a1a
+054aOpcode unresolvable.
+054bRIM
+054cSHLD     #$2058
+054fOpcode unresolvable.
+0550STA      #$207f
+0553LXI    H,#$2073
+0556MVI    B,#$0b
+0558Opcode unresolvable.
+0559STA      #$111a
+055cOpcode unresolvable.
+055dRIM
+055eMVI    B,#$0b
+0560Opcode unresolvable.
+0561STA      #$211a
+0564Opcode unresolvable.
+0565RIM
+0566Opcode unresolvable.
+0567Opcode unresolvable.
+0568Opcode unresolvable.
+0569Opcode unresolvable.
+056aOpcode unresolvable.
+056bDCR    B
+056cOpcode unresolvable.
+056dOpcode unresolvable.
+056eRIM
+056fOpcode unresolvable.
+0570INR    B
+0571Opcode unresolvable.
+0572Opcode unresolvable.
+0573RIM
+0574Opcode unresolvable.
+0575Opcode unresolvable.
+0576DCR    B
+0577Opcode unresolvable.
+0578Opcode unresolvable.
+0579INX    H
+057aMVI    M,#$00
+057cOpcode unresolvable.
+057dOpcode unresolvable.
+057eRIM
+057fOpcode unresolvable.
+0580Opcode unresolvable.
+0581Opcode unresolvable.
+0582DCR    B
+0583Opcode unresolvable.
+0584Opcode unresolvable.
+0585Opcode unresolvable.
+0586RIM
+0587Opcode unresolvable.
+0588Opcode unresolvable.
+0589Opcode unresolvable.
+058aOpcode unresolvable.
+058bRIM
+058cOpcode unresolvable.
+058dOpcode unresolvable.
+058eOpcode unresolvable.
+058fDCR    B
+0590Opcode unresolvable.
+0591Opcode unresolvable.
+0592Opcode unresolvable.
+0593RIM
+0594Opcode unresolvable.
+0595Opcode unresolvable.
+0596INX    H
+0597Opcode unresolvable.
+0598Opcode unresolvable.
+0599Opcode unresolvable.
+059aDCX    D
+059bMVI    B,#$2a
+059dOpcode unresolvable.
+059eRIM
+059fOpcode unresolvable.
+05a0INX    H
+05a1NOP
+05a2SHLD     #$2076
+05a5Opcode unresolvable.
+05a6CMA
+05a7MVI    B,#$d0
+05a9Opcode unresolvable.
+05aaOpcode unresolvable.
+05abLXI    B,#$c679
+05aeRLC
+05afOpcode unresolvable.
+05b0Opcode unresolvable.
+05b1Opcode unresolvable.
+05b2LDAX   B
+05b3Opcode unresolvable.
+05b4SHLD     #$207b
+05b7LXI    H,#$2073
+05baOpcode unresolvable.
+05bbOpcode unresolvable.
+05bcOpcode unresolvable.
+05bdOpcode unresolvable.
+05beINX    H
+05bfINR    M
+05c0Opcode unresolvable.
+05c1LXI    D,#$207c
+05c4Opcode unresolvable.
+05c5MVI    B,#$1a
+05c7Opcode unresolvable.
+05c8INX    H
+05c9Opcode unresolvable.
+05caOpcode unresolvable.
+05cbLXI    B,#$44c2
+05ceMVI    B,#$23
+05d0INR    M
+05d1Opcode unresolvable.
+05d2Opcode unresolvable.
+05d3MVI    B,#$3a
+05d5Opcode unresolvable.
+05d6RIM
+05d7Opcode unresolvable.
+05d8INX    B
+05d9LXI    H,#$207f
+05dcOpcode unresolvable.
+05ddOpcode unresolvable.
+05deOpcode unresolvable.
+05dfDCR    B
+05e0Opcode unresolvable.
+05e1INR    C
+05e2STA      #$2079
+05e5Opcode unresolvable.
+05e6Opcode unresolvable.
+05e7RIM
+05e8Opcode unresolvable.
+05e9Opcode unresolvable.
+05eaOpcode unresolvable.
+05ebRIM
+05ecOpcode unresolvable.
+05edSTA      #$207b
+05f0Opcode unresolvable.
+05f1Opcode unresolvable.
+05f2MVI    B,#$3a
+05f4Opcode unresolvable.
+05f5RIM
+05f6Opcode unresolvable.
+05f7DCR    D
+05f8Opcode unresolvable.
+05f9STAX   D
+05faMVI    B,#$3a
+05fcOpcode unresolvable.
+05fdRIM
+05feOpcode unresolvable.
+05ffOpcode unresolvable.
+0600Opcode unresolvable.
+0601Opcode unresolvable.
+0602RIM
+0603Opcode unresolvable.
+0604MVI    E,#$da
+0606STAX   D
+0607MVI    B,#$fe
+0609DAA
+060aNOP
+060bOpcode unresolvable.
+060cSTAX   D
+060dMVI    B,#$97
+060fSTA      #$2015
+0612Opcode unresolvable.
+0613Opcode unresolvable.
+0614RIM
+0615Opcode unresolvable.
+0616LXI    B,#$7332
+0619RIM
+061aOpcode unresolvable.
+061bOpcode unresolvable.
+061cDCX    D
+061dRIM
+061eOpcode unresolvable.
+061fNOP
+0620Opcode unresolvable.
+0621Opcode unresolvable.
+0622Opcode unresolvable.
+0623DCR    D
+0624Opcode unresolvable.
+0625Opcode unresolvable.
+0626INR    C
+0627Opcode unresolvable.
+0628Opcode unresolvable.
+0629DCR    B
+062aMVI    C,#$0b
+062cOpcode unresolvable.
+062dOpcode unresolvable.
+062eDCR    B
+062fDCR    C
+0630Opcode unresolvable.
+0631Opcode unresolvable.
+0632RIM
+0633Opcode unresolvable.
+0634Opcode unresolvable.
+0635MVI    D,#$05
+0637Opcode unresolvable.
+0638Opcode unresolvable.
+0639STC
+063aOpcode unresolvable.
+063bOpcode unresolvable.
+063cOpcode unresolvable.
+063dDCX    B
+063eOpcode unresolvable.
+063fDCR    D
+0640Opcode unresolvable.
+0641STC
+0642MVI    B,#$c9
+0644LXI    H,#$2078
+0647DCR    M
+0648Opcode unresolvable.
+0649Opcode unresolvable.
+064aINX    B
+064bOpcode unresolvable.
+064cOpcode unresolvable.
+064dMVI    B,#$cd
+064fOpcode unresolvable.
+0650MVI    B,#$21
+0652Opcode unresolvable.
+0653INR   E
+0654SHLD     #$2079
+0657LXI    H,#$207c
+065aDCR    M
+065bDCR    M
+065cDCX    H
+065dDCR    M
+065eDCR    M
+065fOpcode unresolvable.
+0660MVI    B,#$32
+0662Opcode unresolvable.
+0663RIM
+0664Opcode unresolvable.
+0665Opcode unresolvable.
+0666MVI    B,#$a7
+0668Opcode unresolvable.
+0669Opcode unresolvable.
+066aOpcode unresolvable.
+066bMVI    B,#$21
+066dOpcode unresolvable.
+066eRIM
+066fOpcode unresolvable.
+0670Opcode unresolvable.
+0671LDAX   D
+0672Opcode unresolvable.
+0673Opcode unresolvable.
+0674INR    D
+0675LXI    H,#$2079
+0678Opcode unresolvable.
+0679Opcode unresolvable.
+067aLDAX   D
+067bOpcode unresolvable.
+067cOpcode unresolvable.
+067dINR    D
+067eSHLD     #$2048
+0681Opcode unresolvable.
+0682Opcode unresolvable.
+0683Opcode unresolvable.
+0684Opcode unresolvable.
+0685RIM
+0686Opcode unresolvable.
+0687STAX   B
+0688Opcode unresolvable.
+0689LXI    H,#$2083
+068cOpcode unresolvable.
+068dOpcode unresolvable.
+068eOpcode unresolvable.
+068fRRC
+0690DCR    B
+0691Opcode unresolvable.
+0692Opcode unresolvable.
+0693RIM
+0694Opcode unresolvable.
+0695Opcode unresolvable.
+0696RRC
+0697DCR    B
+0698INX    H
+0699Opcode unresolvable.
+069aOpcode unresolvable.
+069bOpcode unresolvable.
+069cOpcode unresolvable.
+069dMVI    B,#$3a
+069fOpcode unresolvable.
+06a0RIM
+06a1Opcode unresolvable.
+06a2NOP
+06a3Opcode unresolvable.
+06a4RRC
+06a5DCR    B
+06a6MVI    M,#$01
+06a8Opcode unresolvable.
+06a9Opcode unresolvable.
+06aaRLC
+06abLXI    D,#$208a
+06aeOpcode unresolvable.
+06afMVI    B,#$1a
+06b1Opcode unresolvable.
+06b2LXI    H,#$2085
+06b5Opcode unresolvable.
+06b6Opcode unresolvable.
+06b7Opcode unresolvable.
+06b8Opcode unresolvable.
+06b9MVI    B,#$21
+06bbOpcode unresolvable.
+06bcRIM
+06bdOpcode unresolvable.
+06beINX    H
+06bfINX    H
+06c0Opcode unresolvable.
+06c1STA      #$208a
+06c4Opcode unresolvable.
+06c5Opcode unresolvable.
+06c6RLC
+06c7LXI    H,#$208a
+06caOpcode unresolvable.
+06cbOpcode unresolvable.
+06ccNOP
+06cdOpcode unresolvable.
+06ceOpcode unresolvable.
+06cfMVI    B,#$fe
+06d1Opcode unresolvable.
+06d2Opcode unresolvable.
+06d3Opcode unresolvable.
+06d4MVI    B,#$c9
+06d6MVI    B,#$fe
+06d8Opcode unresolvable.
+06d9Opcode unresolvable.
+06daDAD    D
+06dbINX    H
+06dcDCR    M
+06ddOpcode unresolvable.
+06deOpcode unresolvable.
+06dfRAR
+06e0Opcode unresolvable.
+06e1Opcode unresolvable.
+06e2RLC
+06e3Opcode unresolvable.
+06e4NOP
+06e5Opcode unresolvable.
+06e6INR    C
+06e7RLC
+06e8Opcode unresolvable.
+06e9Opcode unresolvable.
+06eaMVI    B,#$ef
+06ecLXI    H,#$2098
+06efOpcode unresolvable.
+06f0Opcode unresolvable.
+06f1Opcode unresolvable.
+06f2Opcode unresolvable.
+06f3RIM
+06f4Opcode unresolvable.
+06f5DCR    B
+06f6NOP
+06f7NOP
+06f8NOP
+06f9Opcode unresolvable.
+06faOpcode unresolvable.
+06fbRLC
+06fcOpcode unresolvable.
+06fdOpcode unresolvable.
+06feINR    D
+06ffLXI    H,#$2083
+0702MVI    B,#$0a
+0704Opcode unresolvable.
+0705Opcode unresolvable.
+0706RLC
+0707MVI    B,#$fe
+0709Opcode unresolvable.
+070aOpcode unresolvable.
+070bDAD    D
+070cOpcode unresolvable.
+070dLXI    B,#$f132
+0710RIM
+0711LHLD     #$208d
+0714Opcode unresolvable.
+0715MVI    C,#$04
+0717LXI    H,#$1d50
+071aLXI    D,#$1d4c
+071dLDAX   D
+071eOpcode unresolvable.
+071fOpcode unresolvable.
+0720NOP
+0721RLC
+0722INX    H
+0723INX    D
+0724DCR    C
+0725Opcode unresolvable.
+0726DCR    E
+0727RLC
+0728Opcode unresolvable.
+0729STA      #$2087
+072cMVI    H,#$00
+072eOpcode unresolvable.
+072fDAD    H
+0730DAD    H
+0731DAD    H
+0732DAD    H
+0733SHLD     #$20f2
+0736Opcode unresolvable.
+0737Opcode unresolvable.
+0738RLC
+0739Opcode unresolvable.
+073aOpcode unresolvable.
+073bNOP
+073cOpcode unresolvable.
+073dOpcode unresolvable.
+073eRLC
+073fOpcode unresolvable.
+0740Opcode unresolvable.
+0741INR    D
+0742LXI    H,#$2087
+0745Opcode unresolvable.
+0746Opcode unresolvable.
+0747LDAX   D
+0748Opcode unresolvable.
+0749Opcode unresolvable.
+074aLDAX   D
+074bMVI    B,#$10
+074dLXI    H,#$2098
+0750Opcode unresolvable.
+0751Opcode unresolvable.
+0752Opcode unresolvable.
+0753Opcode unresolvable.
+0754Opcode unresolvable.
+0755RAL
+0756LXI    H,#$1d7c
+0759SHLD     #$2087
+075cOpcode unresolvable.
+075dOpcode unresolvable.
+075eRLC
+075fLXI    D,#$1b83
+0762Opcode unresolvable.
+0763STA      #$3e1a
+0766LXI    B,#$9332
+0769RIM
+076aLXI   SP,#$2400
+076dOpcode unresolvable.
+076eOpcode unresolvable.
+076fOpcode unresolvable.
+0770DAD    D
+0771Opcode unresolvable.
+0772Opcode unresolvable.
+0773DAD    B
+0774LXI    H,#$3013
+0777LXI    D,#$1ff3
+077aMVI    C,#$04
+077cOpcode unresolvable.
+077dOpcode unresolvable.
+077eNOP
+077fOpcode unresolvable.
+0780Opcode unresolvable.
+0781RIM
+0782Opcode unresolvable.
+0783LXI    H,#$2810
+0786MVI    C,#$14
+0788Opcode unresolvable.
+0789Opcode unresolvable.
+078aNOP
+078bLXI    D,#$1acf
+078eOpcode unresolvable.
+078fOpcode unresolvable.
+0790NOP
+0791Opcode unresolvable.
+0792LXI    B,#$04e6
+0795Opcode unresolvable.
+0796Opcode unresolvable.
+0797RLC
+0798MVI    B,#$99
+079aOpcode unresolvable.
+079bSTA      #$20ce
+079eOpcode unresolvable.
+079fOpcode unresolvable.
+07a0RIM
+07a1Opcode unresolvable.
+07a2DAA
+07a3STA      #$20eb
+07a6Opcode unresolvable.
+07a7Opcode unresolvable.
+07a8DAD    D
+07a9LXI    H,#$0000
+07acSHLD     #$20f8
+07afSHLD     #$20fc
+07b2Opcode unresolvable.
+07b3DCR    H
+07b4DAD    D
+07b5Opcode unresolvable.
+07b6DCX    H
+07b7DAD    D
+07b8Opcode unresolvable.
+07b9Opcode unresolvable.
+07baDAD    D
+07bbLXI    H,#$0101
+07beOpcode unresolvable.
+07bfSTA      #$20ef
+07c2SHLD     #$20e7
+07c5SHLD     #$20e5
+07c8Opcode unresolvable.
+07c9Opcode unresolvable.
+07caDAD    D
+07cbOpcode unresolvable.
+07ccOpcode unresolvable.
+07cdLXI    B,#$f5cd
+07d0LXI    B,#$d1cd
+07d3NOP
+07d4STA      #$21ff
+07d7STA      #$22ff
+07daOpcode unresolvable.
+07dbOpcode unresolvable.
+07dcNOP
+07ddOpcode unresolvable.
+07deSTA      #$21fe
+07e1STA      #$22fe
+07e4Opcode unresolvable.
+07e5Opcode unresolvable.
+07e6LXI    B,#$04cd
+07e9DAD    D
+07eaLXI    H,#$3878
+07edSHLD     #$21fc
+07f0SHLD     #$22fc
+07f3Opcode unresolvable.
+07f4Opcode unresolvable.
+07f5LXI    B,#$7fcd
+07f8LDAX   D
+07f9Opcode unresolvable.
+07faOpcode unresolvable.
+07fbNOP
+07fcOpcode unresolvable.
+07fdOpcode unresolvable.
+07feDAD    B
+07ffNOP
